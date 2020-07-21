@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Zenwolf/babel-plugin-dev#readme",
   "devDependencies": {
     "babel-core": "^6.2.1",
-    "eslint": "^1.10.3",
+    "eslint": "^7.5.0",
     "mocha": "^2.3.4"
   }
 }
